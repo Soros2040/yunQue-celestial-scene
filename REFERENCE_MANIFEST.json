@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "unique_images": 10,
+  "attachment_occurrences": 11,
+  "rights": "仅记录用户提供的参考；不据此授予再分发或商业使用许可。公开发布前由用户确认参考图权利。",
+  "images": [
+    {
+      "file": "references/original/970844dd5001ac8524986f98ff503c44.jpg",
+      "original_filename": "970844dd5001ac8524986f98ff503c44.jpg",
+      "bytes": 406221,
+      "sha256": "cbde0d13444fee0b7bcf949c9f98c801a0f07433b7223088f7b36383fbc0d0cd",
+      "provenance": "用户提供的初始参考图；上游来源与授权未核验"
+    },
+    {
+      "file": "references/original/5297fa17bba439732ff413549a87c3a5.jpg",
+      "original_filename": "5297fa17bba439732ff413549a87c3a5.jpg",
+      "bytes": 438119,
+      "sha256": "e87c29ae77934d163e220b2471a37e6ebefed3adb77cfda40b78cad704e57290",
+      "provenance": "用户提供的初始参考图；上游来源与授权未核验"
+    },
+    {
+      "file": "references/primary/image.png",
+      "original_filename": "image.png",
+      "bytes": 3820798,
+      "sha256": "9b8db2b40734f8520dc333a13cb5c1161ed3173a54bf169c981455def47aab86",
+      "provenance": "用户提供的 GPT 生成参考；后被指定为主目标图"
+    },
+    {
+      "file": "references/multiview/image(3).png",
+      "original_filename": "image(3).png",
+      "bytes": 4291121,
+      "sha256": "a2f788978c7bec2610b21adccfe40da561e8bdf8b549868812a155599fe31db1",
+      "provenance": "用户提供的生成式多视角或组件参考；非精确测绘图"
+    },
+    {
+      "file": "references/multiview/image(4).png",
+      "original_filename": "image(4).png",
+      "bytes": 3965373,
+      "sha256": "2b199537263cb1d91a45ab6062b3fc9d607f4330a51a9d9628fe8d157c104e60",
+      "provenance": "用户提供的生成式多视角或组件参考；非精确测绘图"
+    },
+    {
+      "file": "references/multiview/image(5).png",
+      "original_filename": "image(5).png",
+      "bytes": 3910514,
+      "sha256": "97d1a72cc0ebe1b4bde2b9ef9513eac2f0a7e528dacf24740dab0a203a4e2d1b",
+      "provenance": "用户提供的生成式多视角或组件参考；非精确测绘图"
+    },
+    {
+      "file": "references/multiview/image(6).png",
+      "original_filename": "image(6).png",
+      "bytes": 2919323,
+      "sha256": "2e7a752f4fc1ee1ff19a24421ce389d6cf99124f87b288dfccf85f6aa55f4d8a",
+      "provenance": "用户提供的生成式多视角或组件参考；非精确测绘图"
+    },
+    {
+      "file": "references/multiview/image(7).png",
+      "original_filename": "image(7).png",
+      "bytes": 3416554,
+      "sha256": "5fabc2ca8eb530d73ded78453cd4834136c2ac913373430d6cb2e39b716cb971",
+      "provenance": "用户提供的生成式多视角或组件参考；非精确测绘图"
+    },
+    {
+      "file": "references/multiview/image(8).png",
+      "original_filename": "image(8).png",
+      "bytes": 3122188,
+      "sha256": "e54d0ad67b437c77a06b24a4b7cc28923474c5110f2c22d6f6f9443eb4b5d2ce",
+      "provenance": "用户提供的生成式多视角或组件参考；非精确测绘图"
+    },
+    {
+      "file": "references/multiview/image(9).png",
+      "original_filename": "image(9).png",
+      "bytes": 3455568,
+      "sha256": "1e79606ea95c1628bb69673b8bde65370929df09771c6452abb9abddac749e45",
+      "provenance": "用户提供的生成式多视角或组件参考；非精确测绘图"
+    }
+  ],
+  "duplicate_attachments": [
+    {
+      "original_filename": "image(1).png",
+      "same_content_as": "references/primary/image.png",
+      "sha256": "9b8db2b40734f8520dc333a13cb5c1161ed3173a54bf169c981455def47aab86",
+      "purpose": "用户再次上传并指定为最终效果主目标，保留附件关系、不重复存储"
+    }
+  ]
+}

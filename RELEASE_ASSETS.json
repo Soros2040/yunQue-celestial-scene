@@ -1,0 +1,20 @@
+{
+  "status": "model_release_prepared_video_pending",
+  "assets": [
+    {
+      "name": "yunque_final_scene.blend",
+      "bytes": 150482304,
+      "sha256": "72d3aaf38cdb9bdfe8ee8afef70ff0345fa1b8e1aa71cb29c776704105fc0cf0"
+    },
+    {
+      "name": "celestial_score_30s_48k_stereo.wav",
+      "bytes": 8640102,
+      "sha256": "6551064ab7b56aff840d1dc47291d0f3efbc69049b5ac3a5edf3c91919d0f3fc"
+    },
+    {
+      "name": "yunque_model_archive.zip",
+      "bytes": 193121132,
+      "sha256": "6acbf9e7dab50a3cae2abbfd56c3a974aa96625425f21e2eb29303b0ae3bf42c"
+    }
+  ]
+}
